@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+h1 {
+    size: 30px;
+    color: rgb(0, 209, 139);
+}
+h2{
+    color: rgb(0, 209, 139);
+}
+textarea {
+    text-align: left;
+    display: block;
+    margin: auto;
+}
+img{
+    display: block;
+    margin: auto;
+}
